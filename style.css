@@ -17,11 +17,11 @@ header {
     border-bottom: 10px solid burlywood;
 }
 
-li {
-    display: inline;
+.text-right {
     font-size: 20px;
     margin: 25px;
-    color: white;
+    color: brown;
+    display: inline;
 }
 
 h1 {
@@ -36,4 +36,39 @@ img {
 
 p {
     text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    display: block;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(3, 59, 3);
+    padding: 30px;
+    border-bottom: 10px solid burlywood;
+}
+
+form {
+    text-align: center;
+    padding: 50px;
+    border: 10px burlywood solid;
+    border-style: groove;
+    border-radius: 20px;
+    margin: auto;
+    width: fit-content;
+   
+}
+
+#container {
+    background-color: burlywood;
+    color: rgb(75, 47, 11);
+}
+
+li {
+    list-style-type: none;
 }
