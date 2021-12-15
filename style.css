@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+body {
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+}
+
+header {
+    color: white;
+    text-align: right;
+    background-color: rgb(3, 59, 3);
+    padding: 30px;
+    border-bottom: 10px solid burlywood;
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+    margin: 25px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: 20px;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
